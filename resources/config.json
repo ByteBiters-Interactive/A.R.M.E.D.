@@ -1,0 +1,10 @@
+{
+    "__comment1__": "Message that is sent when the bot-functionality is executed.",
+    "message": "This is a default message. Change it in line 3 of `resources/config.json`.",
+
+    "__comment2__": "Iteration cycle in which the bot checks the current date. Should not be changed!",
+    "iteration_cycle": "24",
+
+    "__comment3__": "Day of the month the message shall be send. Would not recommend using a number higher than 28 because of February.",
+    "day": "1"
+}
